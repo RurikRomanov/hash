@@ -53,3 +53,19 @@
 ### Интеграция
 
 Приложение предназначено исключительно для интеграции с Telegram веб-приложением.
+
+### Vercel Deployment Instructions
+
+To deploy this project to Vercel, follow these steps:
+
+1. **Sign up or log in to Vercel**: Go to [Vercel](https://vercel.com/) and sign up for an account or log in if you already have one.
+
+2. **Import your project**: Click on the "New Project" button and import your GitHub repository.
+
+3. **Configure project settings**: During the import process, Vercel will automatically detect the settings from your `vercel.json` file. Ensure that the build command and output directory are correctly set.
+
+4. **Deploy**: Click on the "Deploy" button to start the deployment process. Vercel will build and deploy your project.
+
+5. **Access your deployed project**: Once the deployment is complete, you will receive a URL where your project is live. You can share this URL with others to access your project.
+
+For more detailed instructions, refer to the [Vercel documentation](https://vercel.com/docs).
